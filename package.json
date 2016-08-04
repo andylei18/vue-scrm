@@ -46,6 +46,8 @@
     "vue-html-loader": "^1.0.0",
     "vue-loader": "^8.3.0",
     "vue-style-loader": "^1.0.0",
+    "vue-router": "^0.7.13",
+    "vue-resource": "^0.7.0",
     "webpack": "^1.12.2",
     "webpack-dev-middleware": "^1.4.0",
     "webpack-hot-middleware": "^2.6.0",
